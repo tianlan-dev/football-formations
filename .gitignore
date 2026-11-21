@@ -1,0 +1,11 @@
+node_modules/
+.env
+.env.*
+.env*.local
+.server-logs/
+.output/
+.nitro/
+.tanstack/
+dist/
+npm-debug.log*
+.DS_Store
